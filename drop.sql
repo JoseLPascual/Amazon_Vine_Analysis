@@ -1,0 +1,4 @@
+ --DROP TABLE customers_table;
+ --DROP TABLE products_table;
+ --DROP TABLE review_id_table;
+ --DROP TABLE vine_table
